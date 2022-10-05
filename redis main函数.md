@@ -1,6 +1,6 @@
 # Startup 开始
 
-让我们从**redis.c** 中的**main** 开始吧
+让我们从**redis.c** 中的**main** 开始吧 [原文链接](https://www.pauladamsmith.com/articles/redis-under-the-hood.html#shared-objects)
 
 ## Begining global server state initialization 开始全局服务器状态的初始化
 
